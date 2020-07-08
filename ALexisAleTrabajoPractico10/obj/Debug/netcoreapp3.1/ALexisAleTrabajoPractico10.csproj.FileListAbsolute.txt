@@ -1,0 +1,13 @@
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\traabajo practico 10\ALexisAleTrabajoPractico10\bin\Debug\netcoreapp3.1\ALexisAleTrabajoPractico10.exe
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\traabajo practico 10\ALexisAleTrabajoPractico10\bin\Debug\netcoreapp3.1\ALexisAleTrabajoPractico10.deps.json
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\traabajo practico 10\ALexisAleTrabajoPractico10\bin\Debug\netcoreapp3.1\ALexisAleTrabajoPractico10.runtimeconfig.json
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\traabajo practico 10\ALexisAleTrabajoPractico10\bin\Debug\netcoreapp3.1\ALexisAleTrabajoPractico10.runtimeconfig.dev.json
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\traabajo practico 10\ALexisAleTrabajoPractico10\bin\Debug\netcoreapp3.1\ALexisAleTrabajoPractico10.dll
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\traabajo practico 10\ALexisAleTrabajoPractico10\bin\Debug\netcoreapp3.1\ALexisAleTrabajoPractico10.pdb
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\traabajo practico 10\ALexisAleTrabajoPractico10\obj\Debug\netcoreapp3.1\ALexisAleTrabajoPractico10.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\traabajo practico 10\ALexisAleTrabajoPractico10\obj\Debug\netcoreapp3.1\ALexisAleTrabajoPractico10.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\traabajo practico 10\ALexisAleTrabajoPractico10\obj\Debug\netcoreapp3.1\ALexisAleTrabajoPractico10.AssemblyInfo.cs
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\traabajo practico 10\ALexisAleTrabajoPractico10\obj\Debug\netcoreapp3.1\ALexisAleTrabajoPractico10.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\traabajo practico 10\ALexisAleTrabajoPractico10\obj\Debug\netcoreapp3.1\ALexisAleTrabajoPractico10.dll
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\traabajo practico 10\ALexisAleTrabajoPractico10\obj\Debug\netcoreapp3.1\ALexisAleTrabajoPractico10.pdb
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\traabajo practico 10\ALexisAleTrabajoPractico10\obj\Debug\netcoreapp3.1\ALexisAleTrabajoPractico10.genruntimeconfig.cache
